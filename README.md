@@ -1,4 +1,4 @@
-![Header wallpaper](/storage/emulated/0/Markdown%20Files/Kriptografi/Images/key.jpeg)
+![Header wallpaper](/Images/key.jpeg)
 
 # 🛡 Kriptoloji Nedir?
 Kısaca şifre bilimidir. Bir verinin güvenli bir şekilde bir ortamdan başka bir ortama aktarılması için verinin şifrelenmesi ve şifrenin çözülmesiyle ilgilenen ve bunu yalarken de matematikten faydalanan bir bilim dalıdır.
