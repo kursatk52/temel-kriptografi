@@ -9,4 +9,4 @@
 
 ![simetrik](/resimler/simetrik.png)
 
-[**Ana Sayfaya Dön**](README.md)
+[**Ana Sayfaya Dön**](/README.md)
