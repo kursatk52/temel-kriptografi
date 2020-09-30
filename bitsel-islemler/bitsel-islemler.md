@@ -15,4 +15,4 @@
     **_Eger her iki taraf birbirinden farklı ise sonuc 1 aksi taktirde aonuc 0'dır._**
     ![xor](/resimler/xor.png)
 
-  [**Ana Sayfaya Dön**](/)
+  [**Ana Sayfaya Dön**](/README.md)
