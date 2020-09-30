@@ -4,7 +4,7 @@ DES algoritması içerisinde bulunan **f fonksiyonu**, **initial permutation iş
 
 Şimdilik 64 bitlik plain text verinin hangi yollardan, ne sırada geçtiğini bilseniz yeterli.
 
-![des_algorithm](resimler/des_algorithm.png)
+![des_algorithm](/resimler/des_algorithm.png)
 
 - Her bir L'nin değeri (L0 hariç) bir önceki R değerine eşittir. L0 ise direk olarak plain text'in 32 bitlik degerine eşittir. ⬆️
 
