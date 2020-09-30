@@ -1,11 +1,11 @@
-![Header wallpaper](/Images/key.jpeg)
+
 
 # 🛡 Kriptoloji Nedir?
 Kısaca şifre bilimidir. Bir verinin güvenli bir şekilde bir ortamdan başka bir ortama aktarılması için verinin şifrelenmesi ve şifrenin çözülmesiyle ilgilenen ve bunu yalarken de matematikten faydalanan bir bilim dalıdır.
 
 
 # 💎 Kriptografi Nedir?
-Kriptografi okunup anlaşılabilir bir veriyi anlaşılamaz hale getirmek için kullanılan yöntemlerin tümüdür. Tabi anlaşılamaz hale getirilen bir veri tekrardan eski haline döndürülebilir.
+Kriptografiw okunup anlaşılabilir bir veriyi anlaşılamaz hale getirmek için kullanılan yöntemlerin tümüdür. Tabi anlaşılamaz hale getirilen bir veri tekrardan eski haline döndürülebilir.
 
 Şifrelemede temel olarak 2 yöntem mevcuttur.
 
