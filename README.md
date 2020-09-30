@@ -14,7 +14,7 @@ Kriptografiw okunup anlaşılabilir bir veriyi anlaşılamaz hale getirmek için
 
 ## İçerik 📚
 - [Bitsel İşlemler](/bitsel-islemler/bitsel-islemler.md)
-- Simetrik Şifreleme
+- [Simetrik Şifreleme](/simetrik/simetrik.md)
    - DES
       - [DES Algoritması]()
       - [DES Şifreleme ve Şifre Çözme]()
