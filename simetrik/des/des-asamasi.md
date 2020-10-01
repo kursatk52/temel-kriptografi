@@ -13,7 +13,7 @@ Bu aşama DES algoritmasının ilk aşamasıdır.
 Dışarıdan gelen 64 bitlik plain text'teki verilerin her biti **initial permutation tablosuna** göre yer değiştirir.
 
 
-![ip-table](resimler/ip-table.png)
+![ip-table](/resimler/ip-table.png)
 
 Bu tabloya göre 64 bitlik verinin 58. biti ilk sıraya 50. biti ikinci sıraya gelir ve tabloya göre böyle devam eder. Böylece veri karıştırılmış olur.
 
@@ -25,7 +25,7 @@ Bu tabloya göre 64 bitlik verinin 58. biti ilk sıraya 50. biti ikinci sıraya 
 
 - İnitial Permutation işleminden gelen karıştırılmış 64 bitlik veri sağ ve sol olmak üzere 32 bit olarak 2 parçaya ayrılır.
 
-![round-asamasi](resimler/round-asamasi.png)
+![round-asamasi](/resimler/round-asamasi.png)
 
 ### f Fonksiyonu
 
@@ -35,7 +35,7 @@ Bu tabloya göre 64 bitlik verinin 58. biti ilk sıraya 50. biti ikinci sıraya 
 
 Çünkü daha önce belirttiğimiz 56 bitlik anahtarı kullaanarak 16 tane 48 bitlik anahtar üretiliyor demiştik. Veriyi anahtar uzunluğuna eşitlemek için bu işlem gerçekleştiriliyor.
 
-![selection-table](resimler/selection-table.png)
+![selection-table](/resimler/selection-table.png)
 
 Tabloya göre 32 bitlik verinin başına 32.biti koyarak başlıyoruz, 12 ile 13. biti koyduktan sonra 12 ve 13. biti tekrar koyuyoruz ve böyle devam ediyor. En sonundada 48 bitlik veri elde etmiş oluyoruz.
 
@@ -58,7 +58,7 @@ Tabloya göre 32 bitlik verinin başına 32.biti koyarak başlıyoruz, 12 ile 13
 
 S1 kutusuna ait tablo. (Diğeleri internette kolaylıkla bulunabilir.)
 
-![s1-table](resimler/s1-table.png)
+![s1-table](/resimler/s1-table.png)
 
 Örneğin S1 tablosuna 37 sayısıs girerse, bu ikilik sayı sisteminde 100101 'e karşılık gelmektedir, sonuç 8 , binary 1000, olacaktır.
 
@@ -78,7 +78,7 @@ _Bu işlemler sonucunda 48 bitlik veri tekrardan 32 bite dönüştürülmüş ol
 
 Son olarak 32 bitlik expansion uygulanmış veri tekrardan permutation işlemine tabi tutuluyor. Tabi ayrı bir tablosu var bununda :)
 
-![f-func-perm-table](resimler/f-func-perm-table.png)
+![f-func-perm-table](/resimler/f-func-perm-table.png)
 
 Aşağıdaki örneği inceleyerek algılayabilirsiniz yukarıdaki permutation işlemlerinin aynısı sadece tablo değişik.
 
@@ -92,14 +92,14 @@ Oluşacak yeni veriye L diyelim. Yukarıdaki tabloya göre L'nin ilk biti K'nın
  
  Yani f fonksiyonunun sonucu L'dir. Sonuç olarak f fonksiyonun algoritması aşağıdaki gibidir.
  
- ![f-func-algorithm](resimler/f-func-algorithm.png)
+ ![f-func-algorithm](/resimler/f-func-algorithm.png)
 
 
 ### XOR İŞLEMİ
 
 - f fonksiyonu sonucu ortaya çıkan 32 bitlik veri ile 64 bitlik verinin sol kısmı (oda 32 bit) xor işlemine girer.
 
-![round-dongusu](resimler/round-dongusu.png)
+![round-dongusu](/resimler/round-dongusu.png)
 
 - Bu döngü işlemi toplamda 16 kez tekrarlanır.
  
@@ -108,7 +108,7 @@ Oluşacak yeni veriye L diyelim. Yukarıdaki tabloya göre L'nin ilk biti K'nın
 
 Bu DES algroritmasının son adımıdır. Tekrar permütasyon uygulanır tabi **reverse permutation tablosuna** göre ve 64 bitlik **cipher text(şifreli metin)** çıkışa verilir.
 
-![reverse_perm_table](resimler/reverse_perm_table.png)
+![reverse_perm_table](/resimler/reverse_perm_table.png)
 
 Örneğin DES algoritması sonucu şifrelenmiş 64 bitlik verinin Sol ve Sağ kısmı aşağıdaki gibi olsun.
 
