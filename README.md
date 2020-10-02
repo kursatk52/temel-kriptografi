@@ -21,5 +21,4 @@ Kriptografi kriptolojinin alt dalı olup okunup anlaşılabilir bir veriyi anla�
        - [DES Anahtar Oluşturma](/simetrik/des/des-key-generator.md)
        - [DES Güvenilirliği](/simetrik/des/des-guvenilirligi.md)
        - [3DES Algoritması](/simetrik/des/3des-algoritmasi.md)
-    - AES
-- Asimetrik Şifreleme
+    
