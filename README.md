@@ -18,7 +18,7 @@ Kriptografiw okunup anlaşılabilir bir veriyi anlaşılamaz hale getirmek için
    - [DES](/simetrik/des/des.md)
        - [DES Şifreleme ve Şifre Çözme](/simetrik/des/sifreleme.md)
        - [DES Aşamaları ve Fonksiyonları](/simetrik/des/des-asamasi.md)
-       - DES Anahtar Oluşturma
+       - [DES Anahtar Oluşturma](/simetrik/des/des-key-generator.md)
        - DES Güvenilirliği
        - 3DES Algoritması
     - AES
