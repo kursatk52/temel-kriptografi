@@ -22,3 +22,4 @@ Kriptografi kriptolojinin alt dalı olup okunup anlaşılabilir bir veriyi anla�
        - [DES Güvenilirliği](/simetrik/des/des-guvenilirligi.md)
        - [3DES Algoritması](/simetrik/des/3des-algoritmasi.md)
     
+> [Profil sayfasına dönmek için tıkla](https://github.com/kursatk52/kursatk52)
