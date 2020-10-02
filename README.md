@@ -5,7 +5,7 @@ Kısaca şifre bilimidir. Bir verinin güvenli bir şekilde bir ortamdan başka 
 
 
 # 💎 Kriptografi Nedir?
-Kriptografiw okunup anlaşılabilir bir veriyi anlaşılamaz hale getirmek için kullanılan yöntemlerin tümüdür. Tabi anlaşılamaz hale getirilen bir veri tekrardan eski haline döndürülebilir.
+Kriptografi kriptolojinin alt dalı olup okunup anlaşılabilir bir veriyi anlaşılamaz hale getirmek için kullanılan yöntemlerin tümüdür. Tabi anlaşılamaz hale getirilen bir veri tekrardan eski haline döndürülebilir.
 
 Şifrelemede temel olarak 2 yöntem mevcuttur.
 
