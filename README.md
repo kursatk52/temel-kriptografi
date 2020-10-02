@@ -1,5 +1,8 @@
 ![resimbulunamadi](/resimler/key.jpeg)
 
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kursatk52.temel-kriptografi" alt="visitor-badge" style="width:100px;"/>
+
 # 🛡 Kriptoloji Nedir?
 Kısaca şifre bilimidir. Bir verinin güvenli bir şekilde bir ortamdan başka bir ortama aktarılması için verinin şifrelenmesi ve şifrenin çözülmesiyle ilgilenen ve bunu yalarken de matematikten faydalanan bir bilim dalıdır.
 
