@@ -1,4 +1,4 @@
-# DES Güvenliği
+# DES Güvenliği 🛡
 
  - 56 bitlik anahtar uzunluğu ile saldırılara karşı yeterince güvenlik sağlayamadığı görülmüş. 🗝
  
