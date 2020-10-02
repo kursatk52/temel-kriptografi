@@ -2,13 +2,13 @@
 
 ## Anahtar Oluşturma Algoritması
 
-![key-generator-algorithm](resimler/key-generator-algorithm.png)
+![key-generator-algorithm](/resimler/key-generator-algorithm.png)
 
 ## Anahtar Oluşturma İşlemi
 
 - İlk olarak 64 bitlik anahtar girilir. Girilen 64 bitlik anahtar içinden PC-1 tablolsuna göre 56 bit seçilir.
 
-  ![pc-1-table](resimler/pc-1-table.png)
+  ![pc-1-table](/resimler/pc-1-table.png)
   
      - Oluşturulacak 56 bitlik anahtara K diyelim, ilk girilen 64 bitlik anahtara B diyelim.
      
@@ -32,7 +32,7 @@
 - Bu ikisi kullanılarak 16 adet 48 bitlik anahtarlar oluşturulur.
      -Her anahtar kendinmden önceki anahtarın N ve P değerinin sola kaydırılmasından oluşturulur. **Tabi her aşamadaki sola kaydırma miktarı değişiktir.** Aşağıdaki tabloda her turdaki kaydırma miktarı verilmiştir.
      
-     ![shift-table](resimler/shift-table.jpeg)
+     ![shift-table](/resimler/shift-table.jpeg)
           
      -  Bu tabloya göre 1. anahtar oluşturuluyrken N0 ve P0 bitleri 1 kez sola kaydırma işlemi uygulanır.
      -  3. aşamada ise N2 ve P2 bitlerini 2 kez kaydırıldıktan sonra **Key3** oluşturulur.
@@ -94,7 +94,7 @@
 
  - Oluşturulan N ve P değerleri birleştirilerek (N0 ve P0 hariç) 16 adet NP ikilisi oluşturulur. Oluşturulan bu ikililerden aşağıdaki tabloya göre 48 bit seçilir ve 16 adet 48 bitlik anahtarlar oluşturulmuş olur.
  
-   ![pc-2-table](resimler/pc-2-table.jpeg) 
+   ![pc-2-table](/resimler/pc-2-table.jpeg) 
    
    Bu tabloya göre anahtarın birinci biti NP ikilisinin 14.bitidir, ikinci biti NP ikilisinin 17.bitidir  ve böyle devam eder.
    
