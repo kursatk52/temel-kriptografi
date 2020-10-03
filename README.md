@@ -18,7 +18,7 @@ Kriptografi kriptolojinin alt dalı olup okunup anlaşılabilir bir veriyi anla�
 ## İçerik 📚
 - [Bitsel İşlemler](/bitsel-islemler/bitsel-islemler.md)
 - [Simetrik Şifreleme](/simetrik/simetrik.md)
-   - [DES (Data Encrption Standart)](/simetrik/des/des.md)
+   - [DES (Data Encryption Standart)](/simetrik/des/des.md)
        - [DES Şifreleme ve Şifre Çözme](/simetrik/des/sifreleme.md)
        - [DES Aşamaları ve Fonksiyonları](/simetrik/des/des-asamasi.md)
        - [DES Anahtar Oluşturma](/simetrik/des/des-key-generator.md)
