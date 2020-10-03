@@ -1,4 +1,4 @@
-![aes](../resimler/aes.jpeg)
+![aes](/resimler/aes.jpeg)
 
 # AES (Advanced Encryption System) 🛡
 
@@ -7,7 +7,7 @@
 - 16 byte'lık (128 bit) blok uzunluğuna sahiptir. 🗜
 - 128/196/256 bit anahtar uzunluğuna sahiptir. 🔑
 
-    ![aes-basic-algorithm](../resimler/aes-basic-algorithm.png)
+    ![aes-basic-algorithm](/resimler/aes-basic-algorithm.png)
 
 - **Plain text** 'teki her byte 4x4'lük **AES Durum Matrix** 'in içine yerleştirilyor, işlemler tamamlanınca bu matrix'teki her byte tekrar birleştirilerek **Cipher text** elde edilmiş oluyor. 🔐
 
