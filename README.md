@@ -30,5 +30,10 @@ Kriptografi kriptolojinin alt dalı olup okunup anlaşılabilir bir veriyi anla�
        - [AES Key Expansion (Anahtar Oluşturma)](/simetrik/aes/aes-anahtar-olusturma.md)
        - [AES Operasyon Modları]( /simetrik/aes/aes-operasyon-modlari.md)
        - [AES Güvenilirliği](/simetrik/aes/aes-guvenilirligi.md)
-      
+- Asimetrik Şifreleme
+  - RSA
+  - ECC
+- Tek Yönlü Fonksiyonlar
+  - SHA 2/3
+  
 > [Profil sayfasına dönmek için tıkla](https://github.com/kursatk52/kursatk52)
