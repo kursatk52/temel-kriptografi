@@ -27,7 +27,7 @@
   
 - Oluşturulan bu şifreli blok aynı zamanda bir sonraki şifrelenecek bloğun IV'si olur.
 
- ![aes-ecb](/resimler/aes-modes-cbc.png)
+ ![aes-cbc](/resimler/aes-modes-cbc.png)
  
 - En sonda oluşturulan **Cipher Text**'ler birleştirilir.
 
@@ -40,3 +40,9 @@
 
 - İlk counter hariçi diğerleri hep bir öncekinin bir arttırılmış halidir.
 - Şifrelenen _counter_ ile _plaintext_ **xor** 'lanır ve **cipher text** bulunmuş olur.
+
+ ![aes-ctr](/resimler/aes-modes-ctr.png)
+ 
+ - Her AES işlemi birbirinden bağımsız olduğu için AES işlemleri paralelde çalıştırılarak yüksek performans elde edilebilir.
+ 
+ ## 4. Cipher Feed Back (CFB)
