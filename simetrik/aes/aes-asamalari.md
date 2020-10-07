@@ -39,3 +39,10 @@ Yukarıdak s tablosuna baktığımızda x = 3 ve y = 2 için değer **23**'tür.
  
  ![mix-columns](/resimler/mixcolumns.png)
  
+ ## 4- Add Round Key
+ 
+ - _Durum matrisindeki_ her bir sütunu, **tur anahtarını içeren matristeki (nasıl oluşturulduğunu göreceğiz)** her bir sütun ile **xor** işlemine tabi tutulur.
+
+![add-round-key](/resimler/addroundkey.png)
+
+- Şifre çözmek için ise şifrelenmiş olan matris tekrar **_o tura_ ait anahtar matrisi** ile **xor**'lanır.
