@@ -46,3 +46,20 @@
  - Her AES işlemi birbirinden bağımsız olduğu için AES işlemleri paralelde çalıştırılarak yüksek performans elde edilebilir.
  
  ## 4. Cipher Feed Back (CFB)
+
+ ![aes-cfb](/resimler/aes-modes-cfb.png)
+ 
+ - Bu işlem bitene kadar böyle devam ediyor.
+ 
+ ## 5. Output Feed Back (OFB)
+ 
+ - Algoritma olarak CFB ile benzer. Arasındaki farklılık ise IV oluşturulurken **cipher text** değil **EIV** kullanılmasıdır.
+
+  
+  ![aes-ofb](/resimler/aes-modes-ofb.png)
+ 
+ 
+ [**Ana Sayfaya Dön**](/README.md)
+
+
+ 
