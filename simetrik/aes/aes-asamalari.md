@@ -46,3 +46,8 @@ Yukarıdak s tablosuna baktığımızda x = 3 ve y = 2 için değer **23**'tür.
 ![add-round-key](/resimler/addroundkey.png)
 
 - Şifre çözmek için ise şifrelenmiş olan matris tekrar **_o tura_ ait anahtar matrisi** ile **xor**'lanır.
+
+
+[**Ana Sayfaya Dön**](/README.md)
+
+
