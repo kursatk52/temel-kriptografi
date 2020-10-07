@@ -26,3 +26,17 @@
 - İlk blok şifrelenmeden önce "Initialization Vector (IV)" ile xor'lanır sonra şifrelenir.
   
 - Oluşturulan bu şifreli blok aynı zamanda bir sonraki şifrelenecek bloğun IV'si olur.
+
+ ![aes-ecb](/resimler/aes-modes-cbc.png)
+ 
+- En sonda oluşturulan **Cipher Text**'ler birleştirilir.
+
+- Şifre çözerken ise **Cipher Text 1** ile **IV** **xorlanır**. Elde edilen sonuç **Plain text 1** 'dir aynı zamanda bir sonraki bloğun **IV**'sidir.
+
+
+## 3. Counter (CTR)
+
+- Bu durumda bir counter değeri vardır ve şifrelenen plaintext değil counter değeridir.
+
+- İlk counter hariçi diğerleri hep bir öncekinin bir arttırılmış halidir.
+- Şifrelenen _counter_ ile _plaintext_ **xor** 'lanır ve **cipher text** bulunmuş olur.
