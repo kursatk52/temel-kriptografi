@@ -20,3 +20,9 @@
 - Bu modun birden fazla bloktan oluşan verilerde kullanımı sakıncaılıdır.
  
  ![aes-ecb](/resimler/aes-modes-ecb.png)
+
+## 2. Cipher Block Chain (CBC)
+
+- İlk blok şifrelenmeden önce "Initialization Vector (IV)" ile xor'lanır sonra şifrelenir.
+  
+- Oluşturulan bu şifreli blok aynı zamanda bir sonraki şifrelenecek bloğun IV'si olur.
