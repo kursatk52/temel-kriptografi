@@ -28,6 +28,7 @@ Kriptografi kriptolojinin alt dalı olup okunup anlaşılabilir bir veriyi anla�
        - [AES Şifreleme ve Şifre Çözme](/simetrik/aes/aes-sifreleme.md)
        - [AES Aşamaları ve Fonksiyonları](/simetrik/aes/aes-asamalari.md) 
        - [AES Key Expansion (Anahtar Oluşturma)](/simetrik/aes/aes-anahtar-olusturma.md)
-   
+       - [AES Güvenilirliği](/simetrik/aes/aes-guvenilirligi.md)
+      
    
 > [Profil sayfasına dönmek için tıkla](https://github.com/kursatk52/kursatk52)
