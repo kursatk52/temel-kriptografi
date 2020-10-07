@@ -31,3 +31,11 @@ Yukarıdak s tablosuna baktığımızda x = 3 ve y = 2 için değer **23**'tür.
 ![shift-rows](/resimler/shiftrows.png)
 
 - Şifre çözerken ise bu işlemler ters yönde. **Yani sola değil sağa uygulanır.**
+
+## 3- Mix Columns
+ - Burada ise sütunlar üzerinden işlemler yapılır.
+ 
+ - Durum matrisindeki her bir sütunu alıyoruz ve verilen matris (aşağıdaki tabloda görebilirsiniz) ile çarpıyoruz.
+ 
+ ![mix-columns](/resimler/mixcolumns.png)
+ 
